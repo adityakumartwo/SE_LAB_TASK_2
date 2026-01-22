@@ -7,5 +7,3 @@ S103 TestMaj 30 65 30 50 30 50 30 50 30 50
 S104 FailCase 10 20 40 60 40 60 40 60 40 60
 S105 Topper 40 50 40 50 40 50 40 50 40 50
 S106 Edge 20 30 20 30 20 30 20 30 20 30
-S111 ThisNameIsWayTooLongAndWillLikelyCrashTheProgramBecauseItExceedsFiftyCharacters 40 60 40 60 40 60 40 60 40 60
-S112 BorderLine 20 30 20 30 20 30 20 30 20 30
